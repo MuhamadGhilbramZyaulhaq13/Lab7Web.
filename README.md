@@ -20,4 +20,10 @@ Nim: 312410179
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5c8acebc-d965-4ad0-b8c0-d8ded9a700a2" />
 
 # PRATIKUM 2
+<img width="1920" height="1080" alt="Screenshot 2026-05-12 211934" src="https://github.com/user-attachments/assets/6a5eac57-f267-446d-bd2f-0b5cd07d9462" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-12 212332" src="https://github.com/user-attachments/assets/e0cfe756-07f0-4b72-8391-39d8e1225306" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-12 212411" src="https://github.com/user-attachments/assets/23c3c4da-754b-4e7e-83e0-7995c4acb987" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-12 220446" src="https://github.com/user-attachments/assets/ae7236be-4ea9-4ebe-b122-3c31d66d6c82" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1d9d7ae2-db20-411c-b25c-72ef703ad13d" />
 
+# PRATIKUM 3
